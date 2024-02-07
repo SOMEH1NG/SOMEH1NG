@@ -11,7 +11,7 @@
 
 ## My GitHub Stats:
 
-![GithubStats](https://github-stats-alpha.vercel.app/api?username=SOMEH1NG)
+![GithubStats](https://github-stats-alpha.vercel.app/api?username=SOMEH1NG&theme=dark)
 
 ### Most Languages I Use:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOMEH1NG&layout=compact&theme=radical)
