@@ -1,6 +1,6 @@
 <div align="center">
 
-## Welcome to My Profile! 🚀
+## Welcome to My Profile buddy !🚀
 ![Visitor Count](https://profile-counter.glitch.me/SOMEH1NG/count.svg)
 
 ### Languages I Use Most:
